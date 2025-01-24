@@ -27,3 +27,10 @@ accountBalance *= 5; //Bulk Order of Airpods
 console.log(accountBalance);
 accountBalance /= 2; // Emergency Fund Deposit 
 console.log(accountBalance);
+
+//Task 4
+let customerName = "Lebron James"; //Customer Name
+let greeting = "Welcome in " + customerName + ", how may I help you? "; // Employee Greeting
+console.log(greeting);
+
+
